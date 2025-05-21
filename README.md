@@ -12,8 +12,8 @@ Please check the links ^^^ for the current version of the manuscript.
 # Review information
 
 **Purpose.**
-We are writing a community review, intended to summarize recent advances in the field of protein mass spectrometry. 
-This review focuses on novel technologies and biological insights on membrane proteins, relevant for pharmacological research and is intended to be pulished in the Cell journal [Trends in Pharmacological Sciences (TIPS)](https://www.cell.com/trends/pharmacological-sciences/home). **The submission deadline for this manuscript is July 1st, I expect all contributions by June 23rd.** We will be using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track changes. See below for guidelines on how to use Manubot.
+We are writing a community review, with the aim to summarize recent advances in the field of membrane protein mass spectrometry. 
+This review focuses on novel technologies and biological insights on membrane proteins relevant for pharmacological research and is intended to be pulished in the Cell journal [Trends in Pharmacological Sciences (TIPS)](https://www.cell.com/trends/pharmacological-sciences/home). **The submission deadline for this manuscript is July 1st, I expect all contributions by June 23rd.** We will be using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track changes. See below for guidelines on how to use Manubot.
 
 The review was inspired by a [collaborative tutorial on proteomics](https://github.com/jessegmeyerlab/proteomics-tutorial) that was initiated by Jesse G. Meyer and became a great resource for anyone interested in mass spectrometry-based proteomics. 
 
@@ -35,7 +35,7 @@ I (Dina Schuster) will be leading the project and will ultimately decide the aut
 
 All contributions have to be made via this GitHub repository, using Manubot. Please check out [the manubot demo manuscript](https://github.com/manubot/try-manubot) to practice contributing. 
 
-Edit the sections in the /content directory and create a pull request describing your additions or changes. Before pull requests are merged, there must be at least one affirmative review. If there is any unaddressed criticism or disapproval, a I (Dina Schuster) will determine how to proceed and may wait for additional feedback.
+Edit the sections in the /content directory and create a pull request describing your additions or changes. Before pull requests are merged, there must be at least one affirmative review. If there is any unaddressed criticism or disapproval, I (Dina Schuster) will determine how to proceed and may wait for additional feedback.
 
 Use the **Issues** section to discuss potential figures, papers, or changes to the general structure of the manuscript.
 
