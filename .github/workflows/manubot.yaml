@@ -101,5 +101,4 @@ jobs:
           MANUBOT_SSH_PRIVATE_KEY: ${{ secrets.MANUBOT_SSH_PRIVATE_KEY }}
           CI_BUILD_WEB_URL: https://github.com/${{ github.repository }}/commit/${{ github.sha }}/checks
           CI_JOB_WEB_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-      run: bash ci/deploy.sh
-
+        run: bash ci/deploy.sh
