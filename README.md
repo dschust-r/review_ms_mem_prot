@@ -39,6 +39,8 @@ Since this is a short review, please **post an Issue before contributing**, stat
 
 Edit the sections in the /content directory and create a pull request describing your additions or changes. Before pull requests are merged, there must be at least one affirmative review. If there is any unaddressed criticism or disapproval, I (Dina Schuster) will determine how to proceed and may wait for additional feedback.
 
+Please use the listed citations and feel free to add some of your own. Please focus on research papers that have been published in the last 4-5 years.
+
 Use the **Issues** section to discuss potential figures, papers, or changes to the general structure of the manuscript.
 
 The current sections of the review include: 
