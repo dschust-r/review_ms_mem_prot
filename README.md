@@ -18,7 +18,7 @@ This review focuses on novel technologies and biological insights on membrane pr
 The review was inspired by a [collaborative tutorial on proteomics](https://github.com/jessegmeyerlab/proteomics-tutorial) that was initiated by Jesse G. Meyer and became a great resource for anyone interested in mass spectrometry-based proteomics. 
 
 **Authorship.**
-I (Dina Schuster) will be leading the project and will ultimately decide the author order based on contributions recorded via GitHub. For this project, I am looking for a total of **4 additional co-authors**, ideally experts in the field of protein mass spectrometry and/or pharmacology of membrane proteins. The minimum contribution is one section, including relevant references. I do take the freedom to correct sections and make changes where necessary. Figures and tables will also be counted towards contributions. 
+I (Dina Schuster) will be leading the project and will ultimately decide the author order based on contributions recorded via GitHub. For this project, I am looking for a total of **4 additional co-authors**, ideally experts in the field of membrane protein mass spectrometry and/or pharmacology of membrane proteins. The minimum contribution is one section, including relevant references. I do take the freedom to correct sections and make changes where necessary. Figures and tables will also be counted towards contributions. 
 
 **TIPS guidelines.**
 
@@ -46,10 +46,10 @@ Use the **Issues** section to discuss potential figures, papers, or changes to t
 The current sections of the review include: 
 
 1) Novel mass spectrometric methods for the identification of drug targets and binding sites
-   1.1) Accessibility approaches
-   1.2) Thermal proteome profiling
-   1.3) Proximity-based approaches and chemical cross-linking
-   1.4) Native and intact mass spectrometry of membrane proteins
+   - Accessibility approaches
+   - Thermal proteome profiling
+   - Proximity-based approaches and chemical cross-linking
+   - Native and intact mass spectrometry of membrane proteins
 2) Selective probing of membrane proteins with chemoproteomics
 3) Mass spectrometry reveals the cell surface organization
 4) Insights into G protein-coupled receptors
@@ -124,8 +124,8 @@ If your pull request build fails, see the CI logs for the cause of failure and r
 When a commit to the `main` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/dschust-r/review_MS_mem_prot/tree/gh-pages) and [`output`](https://github.com/dschust-r/review_MS_mem_prot/tree/output) branches.
 The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
 
-+ **HTML manuscript** at https://dschust-r.github.io/review_MS_mem_prot/
-+ **PDF manuscript** at https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf
++ **HTML manuscript** at https://dschust-r.github.io/review_ms_mem_prot/
++ **PDF manuscript** at https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf
 
 For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml).
 
@@ -140,7 +140,7 @@ We encourage users to openly license their manuscripts, which is the default as 
 [![License: CC0 1.0](https://img.shields.io/badge/License%20Parts-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Except when noted otherwise, the entirety of this repository is licensed under a CC BY 4.0 License ([`LICENSE.md`](LICENSE.md)), which allows reuse with attribution.
-Please attribute by linking to https://github.com/dschust-r/review_MS_mem_prot.
+Please attribute by linking to https://github.com/dschust-r/review_ms_mem_prot.
 
 Since CC BY is not ideal for code and data, certain repository components are also released under the CC0 1.0 public domain dedication ([`LICENSE-CC0.md`](LICENSE-CC0.md)).
 All files matched by the following glob patterns are dual licensed under CC BY 4.0 and CC0 1.0:
