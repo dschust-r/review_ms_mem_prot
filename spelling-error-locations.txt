@@ -2,3 +2,4 @@ content/01.abstract.md:3:hydrophobicity
 content/01.abstract.md:3:proteome
 content/01.abstract.md:4:druggable
 content/01.abstract.md:4:spectrometry
+content/02.novel_mass_spec_methods.md:1:spectrometric
