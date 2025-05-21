@@ -92,7 +92,7 @@ jobs:
         run: bash build/build.sh
 
       - name: Upload Artifacts
-        uses: https://github.com/actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4  # Corrected the action version
         with:
           name: manuscript-${{ github.run_id }}-${{ env.TRIGGERING_SHA_7 }}
           path: output
@@ -100,7 +100,7 @@ jobs:
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: webpage
+          path: webpage  # your final website output folder
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v2
