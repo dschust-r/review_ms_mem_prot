@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/dschust-r/review_ms_mem_prot/tree/gh-pages) branch hosts the contents of this directory at <https://dschust-r.github.io/review_ms_mem_prot/>.
-The permalink for this webpage version is <https://dschust-r.github.io/review_ms_mem_prot/v/18df3a66c9b6154c2b977553d02cfe71f69cffda/>.
+The permalink for this webpage version is <https://dschust-r.github.io/review_ms_mem_prot/v/ea88482368aca4255f53f7d2b39dc049efd00ffc/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://dschust-r.github.io/review_ms_mem_prot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`18df3a66c9b6154c2b977553d02cfe71f69cffda`](https://github.com/dschust-r/review_ms_mem_prot/commit/18df3a66c9b6154c2b977553d02cfe71f69cffda).
+[`ea88482368aca4255f53f7d2b39dc049efd00ffc`](https://github.com/dschust-r/review_ms_mem_prot/commit/ea88482368aca4255f53f7d2b39dc049efd00ffc).
