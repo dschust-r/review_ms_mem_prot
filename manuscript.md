@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-21" />
   <meta name="citation_publication_date" content="2025-05-21" />
   <meta property="article:published_time" content="2025-05-21" />
-  <meta name="dc.modified" content="2025-05-21T01:09:10+00:00" />
-  <meta property="article:modified_time" content="2025-05-21T01:09:10+00:00" />
+  <meta name="dc.modified" content="2025-05-21T01:10:02+00:00" />
+  <meta property="article:modified_time" content="2025-05-21T01:10:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_MS_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_MS_mem_prot/v/f5d07d6708381a23f2c5648a43fcf25190430c6d/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/f5d07d6708381a23f2c5648a43fcf25190430c6d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/f5d07d6708381a23f2c5648a43fcf25190430c6d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_MS_mem_prot/v/9072085402e8b594abca345bc0471ac66c852cf1/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/9072085402e8b594abca345bc0471ac66c852cf1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/9072085402e8b594abca345bc0471ac66c852cf1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_MS_mem_prot/v/f5d07d6708381a23f2c5648a43fcf25190430c6d/))
+([permalink](https://dschust-r.github.io/review_MS_mem_prot/v/9072085402e8b594abca345bc0471ac66c852cf1/))
 was automatically generated
-from [dschust-r/review_MS_mem_prot@f5d07d6](https://github.com/dschust-r/review_MS_mem_prot/tree/f5d07d6708381a23f2c5648a43fcf25190430c6d)
+from [dschust-r/review_MS_mem_prot@9072085](https://github.com/dschust-r/review_MS_mem_prot/tree/9072085402e8b594abca345bc0471ac66c852cf1)
 on May 21, 2025.
 </em></small>
 
