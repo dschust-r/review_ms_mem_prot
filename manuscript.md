@@ -8,7 +8,7 @@ lang: en-US
 date-meta: '2025-05-21'
 author-meta:
 - John Doe
-- Jane Roe
+- Dina Schuster
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-21" />
   <meta name="citation_publication_date" content="2025-05-21" />
   <meta property="article:published_time" content="2025-05-21" />
-  <meta name="dc.modified" content="2025-05-21T03:16:09+00:00" />
-  <meta property="article:modified_time" content="2025-05-21T03:16:09+00:00" />
+  <meta name="dc.modified" content="2025-05-21T03:30:34+00:00" />
+  <meta property="article:modified_time" content="2025-05-21T03:30:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,19 +35,18 @@ header-includes: |
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Dina Schuster" />
+  <meta name="citation_author_institution" content="Sarafan ChEM-H, Stanford University, Stanford, CA, 94305, USA" />
+  <meta name="citation_author_orcid" content="0000-0001-6611-8237" />
   <link rel="canonical" href="https://dschust-r.github.io/review_MS_mem_prot/" />
   <meta property="og:url" content="https://dschust-r.github.io/review_MS_mem_prot/" />
   <meta property="twitter:url" content="https://dschust-r.github.io/review_MS_mem_prot/" />
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_MS_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_MS_mem_prot/v/96a641b35e6e1e29f3b20679dc33e89180e8538e/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/96a641b35e6e1e29f3b20679dc33e89180e8538e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/96a641b35e6e1e29f3b20679dc33e89180e8538e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_MS_mem_prot/v/5ebf65bb21ed770b7188e13b9df7d0ec68d13749/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/5ebf65bb21ed770b7188e13b9df7d0ec68d13749/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/5ebf65bb21ed770b7188e13b9df7d0ec68d13749/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_MS_mem_prot/v/96a641b35e6e1e29f3b20679dc33e89180e8538e/))
+([permalink](https://dschust-r.github.io/review_MS_mem_prot/v/5ebf65bb21ed770b7188e13b9df7d0ec68d13749/))
 was automatically generated
-from [dschust-r/review_MS_mem_prot@96a641b](https://github.com/dschust-r/review_MS_mem_prot/tree/96a641b35e6e1e29f3b20679dc33e89180e8538e)
+from [dschust-r/review_MS_mem_prot@5ebf65b](https://github.com/dschust-r/review_MS_mem_prot/tree/5ebf65bb21ed770b7188e13b9df7d0ec68d13749)
 on May 21, 2025.
 </em></small>
 
@@ -97,22 +96,22 @@ on May 21, 2025.
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**
++ **Dina Schuster**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-6611-8237](https://orcid.org/0000-0001-6611-8237)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [dschust-r](https://github.com/dschust-r)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Sarafan ChEM-H, Stanford University, Stanford, CA, 94305, USA
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/dschust-r/review_MS_mem_prot/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Dina Schuster \<dschust@stanford.edu\>.
 
 
 :::

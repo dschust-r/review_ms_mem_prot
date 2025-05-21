@@ -1,8 +1,10 @@
 druggable
+dschust
 hydrophobicity
-janeroe
 johndoe
 proteome
+Sarafan
+Schuster
 spectrometry
 XXXX
 XXXXXXXX
