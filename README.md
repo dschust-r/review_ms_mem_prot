@@ -9,9 +9,30 @@
 Please check the links ^^^ for the current version of the manuscript. 
 
 <!-- usage note: edit this section. -->
+# Review information
 
-This manuscript is a community review, intended to summarize recent advances in the field of protein mass spectrometry. 
-This review focuses on novel technologies and insights on membrane proteins, relevant for pharmacological research. 
+**Purpose**
+We are writing a community review, intended to summarize recent advances in the field of protein mass spectrometry. 
+This review focuses on novel technologies and biological insights on membrane proteins, relevant for pharmacological research and is intended to be pulished in the Cell journal [Trends in Pharmacological Sciences (TIPS)](https://www.cell.com/trends/pharmacological-sciences/home). We will be using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track changes. See below for guidelines on how to use Manubot.
+
+The review was inspired by a [collaborative tutorial on proteomics](https://github.com/jessegmeyerlab/proteomics-tutorial) that was initiated by Jesse G. Meyer and became a great resource for anyone interested in mass spectrometry-based proteomics. 
+
+**Authorship**
+I (Dina Schuster) will be leading the project and will ultimately decide the author order based on contributions recorded via GitHub. For this project, I am looking for a total of **4 additional co-authors**, ideally experts in the field of protein mass spectrometry and/or pharmacology of membrane proteins. The minimum contribution is one section, including relevant references. I do take the freedom to correct your section and make changes where necessary. Figures and tables will also be counted towards contributions. 
+
+**TIPS guidelines**
+
+1. Ensure that the topic is introduced adequately so that non-experts can follow easily.
+2. TIPS Reviews are typically shorter than others in the field. They stand at around **3500 words** at submission, with 80-100 references.
+3. Keep most references **within the last 4 years**.
+4. **The number of elements allowed for Reviews is a maximum of 6.** This includes Tables, Figures and Text Boxes.
+5. Text boxes are typically used by authors to explain a sub-topic within the review, that might require more background for a non-expert/ expert from another field to understand. These are used many times by authors to expand the word limit of the review as the words inside do not count towards the 3500 word limit.
+6. The use of a Glossary is encouraged. This is a collection of definition of terms that are used in the field but which a student/early learner/ expert from another field might not know.
+7. The last section is a “Conclusions and Future Perspectives”. This section briefly lays out what the article covered, then discusses Outstanding Questions in the field (once that would ideally be answered in the next 5 years) before concluding the narrative. This is the place for authors to opine/hypothesize how they see the field developing too. Please put the Outstanding Questions that are discussed in this section as bullet points in a separate document called “Outstanding Questions” and call this document out in the main text by stating “(See Outstanding Questions)”.
+8. Figures should be designed via Biorender. Please let me know if you do not have a license.
+
+## How to contribute:
+
 
 ## Manubot
 
