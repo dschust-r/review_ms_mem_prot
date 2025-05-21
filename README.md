@@ -18,7 +18,7 @@ This review focuses on novel technologies and biological insights on membrane pr
 The review was inspired by a [collaborative tutorial on proteomics](https://github.com/jessegmeyerlab/proteomics-tutorial) that was initiated by Jesse G. Meyer and became a great resource for anyone interested in mass spectrometry-based proteomics. 
 
 **Authorship.**
-I (Dina Schuster) will be leading the project and will ultimately decide the author order based on contributions recorded via GitHub. For this project, I am looking for a total of **4 additional co-authors**, ideally experts in the field of protein mass spectrometry and/or pharmacology of membrane proteins. The minimum contribution is one section, including relevant references. I do take the freedom to correct your section and make changes where necessary. Figures and tables will also be counted towards contributions. 
+I (Dina Schuster) will be leading the project and will ultimately decide the author order based on contributions recorded via GitHub. For this project, I am looking for a total of **4 additional co-authors**, ideally experts in the field of protein mass spectrometry and/or pharmacology of membrane proteins. The minimum contribution is one section, including relevant references. I do take the freedom to correct sections and make changes where necessary. Figures and tables will also be counted towards contributions. 
 
 **TIPS guidelines.**
 
