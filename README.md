@@ -35,6 +35,8 @@ I (Dina Schuster) will be leading the project and will ultimately decide the aut
 
 All contributions have to be made via this GitHub repository, using Manubot. Please check out [the manubot demo manuscript](https://github.com/manubot/try-manubot) to practice contributing. 
 
+Since this is a short review, please **post an Issue before contributing**, stating which sections you would like to work on.
+
 Edit the sections in the /content directory and create a pull request describing your additions or changes. Before pull requests are merged, there must be at least one affirmative review. If there is any unaddressed criticism or disapproval, I (Dina Schuster) will determine how to proceed and may wait for additional feedback.
 
 Use the **Issues** section to discuss potential figures, papers, or changes to the general structure of the manuscript.
