@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-05-20'
+date-meta: '2025-05-21'
 author-meta:
 - John Doe
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-05-20" />
-  <meta name="citation_publication_date" content="2025-05-20" />
-  <meta property="article:published_time" content="2025-05-20" />
-  <meta name="dc.modified" content="2025-05-20T23:54:53+00:00" />
-  <meta property="article:modified_time" content="2025-05-20T23:54:53+00:00" />
+  <meta name="dc.date" content="2025-05-21" />
+  <meta name="citation_publication_date" content="2025-05-21" />
+  <meta property="article:published_time" content="2025-05-21" />
+  <meta name="dc.modified" content="2025-05-21T00:15:26+00:00" />
+  <meta property="article:modified_time" content="2025-05-21T00:15:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_MS_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_MS_mem_prot/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_MS_mem_prot/v/f61f2f3f01621dc86bef8188d02d289bbd0e0543/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/f61f2f3f01621dc86bef8188d02d289bbd0e0543/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/f61f2f3f01621dc86bef8188d02d289bbd0e0543/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_MS_mem_prot/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/))
+([permalink](https://dschust-r.github.io/review_MS_mem_prot/v/f61f2f3f01621dc86bef8188d02d289bbd0e0543/))
 was automatically generated
-from [dschust-r/review_MS_mem_prot@ca748bf](https://github.com/dschust-r/review_MS_mem_prot/tree/ca748bf4e80a830d7bee69a20b1fae18e028d9e6)
-on May 20, 2025.
+from [dschust-r/review_MS_mem_prot@f61f2f3](https://github.com/dschust-r/review_MS_mem_prot/tree/f61f2f3f01621dc86bef8188d02d289bbd0e0543)
+on May 21, 2025.
 </em></small>
 
 
