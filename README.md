@@ -6,12 +6,12 @@
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/dschust-r/review_MS_mem_prot/workflows/Manubot/badge.svg)](https://github.com/dschust-r/review_MS_mem_prot/actions)
 
-## Manuscript description
+## Community review on "Advances in Mass Spectrometry for Membrane Protein Pharmacology"
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This manuscript is a community review, intended to summarize recent advances in the field of protein mass spectrometry. 
+This review focuses on novel technologies and insights on membrane proteins, relevant for pharmacological research. 
 
 ## Manubot
 
