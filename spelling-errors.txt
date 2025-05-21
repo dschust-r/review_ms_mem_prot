@@ -1,10 +1,7 @@
 druggable
 dschust
 hydrophobicity
-johndoe
 proteome
 Sarafan
 Schuster
 spectrometry
-XXXX
-XXXXXXXX

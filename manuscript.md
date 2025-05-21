@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Advances in Mass Spectrometry for Membrane Protein Pharmacology
 keywords:
 - markdown
 - publishing
@@ -7,7 +7,6 @@ keywords:
 lang: en-US
 date-meta: '2025-05-21'
 author-meta:
-- John Doe
 - Dina Schuster
 header-includes: |
   <!--
@@ -16,25 +15,21 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
+  <meta name="citation_title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
+  <meta property="og:title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
+  <meta property="twitter:title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
   <meta name="dc.date" content="2025-05-21" />
   <meta name="citation_publication_date" content="2025-05-21" />
   <meta property="article:published_time" content="2025-05-21" />
-  <meta name="dc.modified" content="2025-05-21T03:30:34+00:00" />
-  <meta property="article:modified_time" content="2025-05-21T03:30:34+00:00" />
+  <meta name="dc.modified" content="2025-05-21T03:59:47+00:00" />
+  <meta property="article:modified_time" content="2025-05-21T03:59:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
   <meta name="citation_author" content="Dina Schuster" />
   <meta name="citation_author_institution" content="Sarafan ChEM-H, Stanford University, Stanford, CA, 94305, USA" />
   <meta name="citation_author_orcid" content="0000-0001-6611-8237" />
@@ -44,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_MS_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_MS_mem_prot/v/5ebf65bb21ed770b7188e13b9df7d0ec68d13749/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/5ebf65bb21ed770b7188e13b9df7d0ec68d13749/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/5ebf65bb21ed770b7188e13b9df7d0ec68d13749/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_MS_mem_prot/v/fc1cab0f2e854e3603bf9a22a56706f53f131998/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/fc1cab0f2e854e3603bf9a22a56706f53f131998/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_MS_mem_prot/v/fc1cab0f2e854e3603bf9a22a56706f53f131998/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_MS_mem_prot/v/5ebf65bb21ed770b7188e13b9df7d0ec68d13749/))
+([permalink](https://dschust-r.github.io/review_MS_mem_prot/v/fc1cab0f2e854e3603bf9a22a56706f53f131998/))
 was automatically generated
-from [dschust-r/review_MS_mem_prot@5ebf65b](https://github.com/dschust-r/review_MS_mem_prot/tree/5ebf65bb21ed770b7188e13b9df7d0ec68d13749)
+from [dschust-r/review_MS_mem_prot@fc1cab0](https://github.com/dschust-r/review_MS_mem_prot/tree/fc1cab0f2e854e3603bf9a22a56706f53f131998)
 on May 21, 2025.
 </em></small>
 
@@ -79,22 +74,6 @@ on May 21, 2025.
 ## Authors
 
 
-
-+ **John Doe**
-  <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
-    <br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
 
 + **Dina Schuster**
   ^[✉](#correspondence)^<br>
