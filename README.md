@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+## Community review on "Advances in Mass Spectrometry for Membrane Protein Pharmacology"
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -6,7 +6,7 @@
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://dschust-r.github.io/review_MS_mem_prot/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/dschust-r/review_MS_mem_prot/workflows/Manubot/badge.svg)](https://github.com/dschust-r/review_MS_mem_prot/actions)
 
-## Community review on "Advances in Mass Spectrometry for Membrane Protein Pharmacology"
+Please check the links ^^^ for the current version of the manuscript. 
 
 <!-- usage note: edit this section. -->
 
