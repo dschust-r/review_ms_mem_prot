@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-21" />
   <meta name="citation_publication_date" content="2025-05-21" />
   <meta property="article:published_time" content="2025-05-21" />
-  <meta name="dc.modified" content="2025-05-21T16:37:16+00:00" />
-  <meta property="article:modified_time" content="2025-05-21T16:37:16+00:00" />
+  <meta name="dc.modified" content="2025-05-21T17:00:58+00:00" />
+  <meta property="article:modified_time" content="2025-05-21T17:00:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_ms_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/fe0729eb4471d75f9d1a36a91df59aae13ee7fed/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/fe0729eb4471d75f9d1a36a91df59aae13ee7fed/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/fe0729eb4471d75f9d1a36a91df59aae13ee7fed/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/28ead7769be55cec9197db84b54eebc025e8aa87/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/28ead7769be55cec9197db84b54eebc025e8aa87/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/28ead7769be55cec9197db84b54eebc025e8aa87/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/fe0729eb4471d75f9d1a36a91df59aae13ee7fed/))
+([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/28ead7769be55cec9197db84b54eebc025e8aa87/))
 was automatically generated
-from [dschust-r/review_ms_mem_prot@fe0729e](https://github.com/dschust-r/review_ms_mem_prot/tree/fe0729eb4471d75f9d1a36a91df59aae13ee7fed)
+from [dschust-r/review_ms_mem_prot@28ead77](https://github.com/dschust-r/review_ms_mem_prot/tree/28ead7769be55cec9197db84b54eebc025e8aa87)
 on May 21, 2025.
 </em></small>
 
@@ -106,6 +106,22 @@ Mass spectrometry has emerged as a powerful tool for studying membrane protein s
 ## 1. Novel mass spectrometric methods for the identification of drug targets and binding sites {.page_break_before}
 
 [@DOI:10.1021/acs.jproteome.3c00825; @DOI:10.1016/j.mcpro.2023.100588; @DOI:10.1038/s41592-020-01022-1; @DOI:10.1007/978-1-0716-3397-7_13; @DOI:10.1101/2025.04.28.650974; @DOI:10.1371/journal.pone.0282593; @DOI:10.1021/jacs.3c09078; @DOI:10.1038/s41596-021-00640-z; @DOI:10.1016/j.mcpro.2022.100206]
+
+### Accessibility approaches
+
+[@DOI:10.1007/978-1-0716-3397-7_13; @DOI:10.1101/2025.04.28.650974; @DOI:10.7554/eLife.77032; @DOI:10.1073/pnas.2300309120; @DOI:10.1038/s44319-024-00076-y; @DOI:10.1038/s41592-024-02553-7; @DOI:10.1002/anie.202424779]
+
+### Thermal proteome profiling
+
+[@DOI:10.1038/s41592-020-01022-1; @DOI:10.1016/j.chembiol.2021.02.017]
+
+### Proximity-based approaches and chemical cross-linking
+
+[@DOI:10.1007/978-1-0716-4298-6_16; @DOI:10.1038/s41467-024-47569-x; @DOI:10.1039/d1sc00814e; @DOI:10.1016/j.neuron.2022.09.025; @DOI:10.1038/s41589-024-01588-3; @DOI: 10.1021/acs.analchem.2c04876; @DOI:10.1073/pnas.2106950118; @DOI:10.1038/s44320-024-00049-2]
+
+### Native and intact mass spectrometry of membrane proteins
+
+[@DOI:10.1038/s41586-022-04547-x; @DOI:10.1021/acs.analchem.4c03312; @DOI:10.1039/d3sc04938h; @DOI:10.1021/acs.analchem.4c06994; @DOI:10.1021/acs.analchem.3c02346; @DOI:10.1021/jacs.0c11837l; @DOI:10.1021/acsomega.3c02737; @DOI:10.1038/s41467-024-50350-9; @DOI:10.1038/s41557-022-01041-9; @DOI:10.1016/j.str.2024.10.004]
 
 
 ## 2. Selective probing of membrane proteins with chemoproteomics {.page_break_before}

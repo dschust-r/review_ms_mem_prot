@@ -3,5 +3,7 @@ content/01.abstract.md:3:proteome
 content/01.abstract.md:4:druggable
 content/01.abstract.md:4:spectrometry
 content/02.novel_mass_spec_methods.md:1:spectrometric
+content/02.novel_mass_spec_methods.md:9:proteome
+content/02.novel_mass_spec_methods.md:17:spectrometry
 content/03.chemoproteomics.md:1:chemoproteomics
 content/04.cell_surface_organization.md:1:spectrometry
