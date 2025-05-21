@@ -11,16 +11,16 @@ Please check the links ^^^ for the current version of the manuscript.
 <!-- usage note: edit this section. -->
 # Review information
 
-**Purpose**
+**Purpose.**
 We are writing a community review, intended to summarize recent advances in the field of protein mass spectrometry. 
 This review focuses on novel technologies and biological insights on membrane proteins, relevant for pharmacological research and is intended to be pulished in the Cell journal [Trends in Pharmacological Sciences (TIPS)](https://www.cell.com/trends/pharmacological-sciences/home). We will be using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track changes. See below for guidelines on how to use Manubot.
 
 The review was inspired by a [collaborative tutorial on proteomics](https://github.com/jessegmeyerlab/proteomics-tutorial) that was initiated by Jesse G. Meyer and became a great resource for anyone interested in mass spectrometry-based proteomics. 
 
-**Authorship**
+**Authorship.**
 I (Dina Schuster) will be leading the project and will ultimately decide the author order based on contributions recorded via GitHub. For this project, I am looking for a total of **4 additional co-authors**, ideally experts in the field of protein mass spectrometry and/or pharmacology of membrane proteins. The minimum contribution is one section, including relevant references. I do take the freedom to correct your section and make changes where necessary. Figures and tables will also be counted towards contributions. 
 
-**TIPS guidelines**
+**TIPS guidelines.**
 
 1. Ensure that the topic is introduced adequately so that non-experts can follow easily.
 2. TIPS Reviews are typically shorter than others in the field. They stand at around **3500 words** at submission, with 80-100 references.
