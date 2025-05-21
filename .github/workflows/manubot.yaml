@@ -94,19 +94,12 @@ jobs:
         with:
           name: manuscript-${{ github.run_id }}-${{ env.TRIGGERING_SHA_7 }}
           path: output
-     # - name: Deploy Manuscript
-     #   if: github.ref == env.DEFAULT_BRANCH_REF && github.event_name != 'pull_request' && !github.event.repository.fork
-     #   env:
-     #     MANUBOT_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     #     MANUBOT_SSH_PRIVATE_KEY: ${{ secrets.MANUBOT_SSH_PRIVATE_KEY }}
-     #     CI_BUILD_WEB_URL: https://github.com/${{ github.repository }}/commit/${{ github.sha }}/checks
-     #     CI_JOB_WEB_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-     #   run: bash ci/deploy.sh
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: output
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
+      - name: Deploy Manuscript
+        if: github.ref == env.DEFAULT_BRANCH_REF && github.event_name != 'pull_request' && !github.event.repository.fork
+        env:
+          MANUBOT_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MANUBOT_SSH_PRIVATE_KEY: ${{ secrets.MANUBOT_SSH_PRIVATE_KEY }}
+          CI_BUILD_WEB_URL: https://github.com/${{ github.repository }}/commit/${{ github.sha }}/checks
+          CI_JOB_WEB_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      run: bash ci/deploy.sh
 
