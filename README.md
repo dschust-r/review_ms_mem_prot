@@ -13,7 +13,7 @@ Please check the links ^^^ for the current version of the manuscript.
 
 **Purpose.**
 We are writing a community review, intended to summarize recent advances in the field of protein mass spectrometry. 
-This review focuses on novel technologies and biological insights on membrane proteins, relevant for pharmacological research and is intended to be pulished in the Cell journal [Trends in Pharmacological Sciences (TIPS)](https://www.cell.com/trends/pharmacological-sciences/home). We will be using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track changes. See below for guidelines on how to use Manubot.
+This review focuses on novel technologies and biological insights on membrane proteins, relevant for pharmacological research and is intended to be pulished in the Cell journal [Trends in Pharmacological Sciences (TIPS)](https://www.cell.com/trends/pharmacological-sciences/home). **The submission deadline for this manuscript is July 1st, I expect all contributions by June 23rd.** We will be using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track changes. See below for guidelines on how to use Manubot.
 
 The review was inspired by a [collaborative tutorial on proteomics](https://github.com/jessegmeyerlab/proteomics-tutorial) that was initiated by Jesse G. Meyer and became a great resource for anyone interested in mass spectrometry-based proteomics. 
 
@@ -33,6 +33,25 @@ I (Dina Schuster) will be leading the project and will ultimately decide the aut
 
 ## How to contribute:
 
+All contributions have to be made via this GitHub repository, using Manubot. Please check out [the manubot demo manuscript](https://github.com/manubot/try-manubot) to practice contributing. 
+
+Edit the sections in the /content directory and create a pull request describing your additions or changes. Before pull requests are merged, there must be at least one affirmative review. If there is any unaddressed criticism or disapproval, a I (Dina Schuster) will determine how to proceed and may wait for additional feedback.
+
+Use the **Issues** section to discuss potential figures, papers, or changes to the general structure of the manuscript.
+
+The current sections of the review include: 
+
+1) Novel mass spectrometric methods for the identification of drug targets and binding sites
+   1.1) Accessibility approaches
+   1.2) Thermal proteome profiling
+   1.3) Proximity-based approaches and chemical cross-linking
+   1.4) Native and intact mass spectrometry of membrane proteins
+2) Selective probing of membrane proteins with chemoproteomics
+3) Mass spectrometry reveals the cell surface organization
+4) Insights into G protein-coupled receptors
+5) Remaining challenges and outlook
+
+I have made a pre-selection of 45 relevant citations. Please have a look at them, make sure they are included, and add other references that you think could be relevant.
 
 ## Manubot
 
