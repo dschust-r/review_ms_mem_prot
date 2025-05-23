@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-05-22'
+date-meta: '2025-05-23'
 author-meta:
 - Dina Schuster
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
   <meta property="og:title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
   <meta property="twitter:title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
-  <meta name="dc.date" content="2025-05-22" />
-  <meta name="citation_publication_date" content="2025-05-22" />
-  <meta property="article:published_time" content="2025-05-22" />
-  <meta name="dc.modified" content="2025-05-22T23:05:36+00:00" />
-  <meta property="article:modified_time" content="2025-05-22T23:05:36+00:00" />
+  <meta name="dc.date" content="2025-05-23" />
+  <meta name="citation_publication_date" content="2025-05-23" />
+  <meta property="article:published_time" content="2025-05-23" />
+  <meta name="dc.modified" content="2025-05-23T16:53:43+00:00" />
+  <meta property="article:modified_time" content="2025-05-23T16:53:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_ms_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/19c9d4e4c0c1405ff6151e4664f72444795ee1b1/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/19c9d4e4c0c1405ff6151e4664f72444795ee1b1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/19c9d4e4c0c1405ff6151e4664f72444795ee1b1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/373e5533d9e0631baf7e693b12c178587e7f989c/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/373e5533d9e0631baf7e693b12c178587e7f989c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/373e5533d9e0631baf7e693b12c178587e7f989c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/19c9d4e4c0c1405ff6151e4664f72444795ee1b1/))
+([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/373e5533d9e0631baf7e693b12c178587e7f989c/))
 was automatically generated
-from [dschust-r/review_ms_mem_prot@19c9d4e](https://github.com/dschust-r/review_ms_mem_prot/tree/19c9d4e4c0c1405ff6151e4664f72444795ee1b1)
-on May 22, 2025.
+from [dschust-r/review_ms_mem_prot@373e553](https://github.com/dschust-r/review_ms_mem_prot/tree/373e5533d9e0631baf7e693b12c178587e7f989c)
+on May 23, 2025.
 </em></small>
 
 
