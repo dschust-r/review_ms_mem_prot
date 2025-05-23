@@ -1,0 +1,29 @@
+name: PR Comment
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post PR Comment
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.payload.pull_request.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `
+Hi! 👋 Thanks for your pull request!
+
+Please provide a description of your changes and make sure that:
+- [ ] The new text has one sentence per line
+- [ ] The provided references are used
+- [ ] The referenced papers (mostly research papers, avoid reviews, if possible) are relevant and have been published between 2021 and 2025
+- [ ] You are mindful of our word limit (3500 words in total)
+              `
+            })
