@@ -19,8 +19,7 @@ jobs:
               repo: context.repo.repo,
               body: `
 Hi! 👋 Thanks for your pull request!
-
-Please provide a description of your changes and make sure that:
+Please make sure that
 - [ ] The new text has one sentence per line
 - [ ] The provided references are used
 - [ ] The referenced papers (mostly research papers, avoid reviews, if possible) are relevant and have been published between 2021 and 2025
