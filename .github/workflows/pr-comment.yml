@@ -19,7 +19,7 @@ jobs:
               repo: context.repo.repo,
               body: "Hi! 👋 Thanks for your pull request!\n\n" +
                     "Please provide a description of your changes.\n\n" +
-                    "Before we review, make sure:\n" +
+                    "Make sure that\n" +
                     "- [ ] The new text has one sentence per line\n" +
                     "- [ ] The provided references are used\n" +
                     "- [ ] The referenced papers (mostly research papers, avoid reviews if possible) are relevant and have been published between 2021 and 2025\n" +
