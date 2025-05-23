@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-23" />
   <meta name="citation_publication_date" content="2025-05-23" />
   <meta property="article:published_time" content="2025-05-23" />
-  <meta name="dc.modified" content="2025-05-23T17:12:09+00:00" />
-  <meta property="article:modified_time" content="2025-05-23T17:12:09+00:00" />
+  <meta name="dc.modified" content="2025-05-23T23:08:04+00:00" />
+  <meta property="article:modified_time" content="2025-05-23T23:08:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_ms_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/6805d053d4e7ae9d3cecaf098f6679940bd695f3/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/6805d053d4e7ae9d3cecaf098f6679940bd695f3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/6805d053d4e7ae9d3cecaf098f6679940bd695f3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/26277d30399d18f7cf62f46b165671d0b54ffb97/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/26277d30399d18f7cf62f46b165671d0b54ffb97/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/26277d30399d18f7cf62f46b165671d0b54ffb97/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/6805d053d4e7ae9d3cecaf098f6679940bd695f3/))
+([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/26277d30399d18f7cf62f46b165671d0b54ffb97/))
 was automatically generated
-from [dschust-r/review_ms_mem_prot@6805d05](https://github.com/dschust-r/review_ms_mem_prot/tree/6805d053d4e7ae9d3cecaf098f6679940bd695f3)
+from [dschust-r/review_ms_mem_prot@26277d3](https://github.com/dschust-r/review_ms_mem_prot/tree/26277d30399d18f7cf62f46b165671d0b54ffb97)
 on May 23, 2025.
 </em></small>
 
@@ -130,7 +130,8 @@ Mass spectrometry has emerged as a powerful tool for studying membrane protein s
 
 ## 3. Mass spectrometry reveals the cell surface organization  {.page_break_before}
 
-[@DOI:10.1016/j.mcpro.2023.100588; @DOI:10.1038/s41592-020-01022-1; @DOI:10.1039/d1sc00814e; @DOI:10.1016/j.neuron.2022.09.025; @DOI:10.1038/s41586-022-04547-x; @DOI:10.1038/s41467-024-47033-w; @DOI:10.1021/acschembio.1c00865; @DOI:10.1021/acs.analchem.4c04134]
+[@DOI:10.1038/s44320-025-00109-1; @DOI:10.1016/j.mcpro.2023.100588; @DOI:10.1038/s41592-020-01022-1; @DOI:10.1039/d1sc00814e; @DOI:10.1016/j.neuron.2022.09.025; @DOI:10.1038/s41586-022-04547-x; @DOI:10.1038/s41467-024-47033-w; @DOI:10.1021/acschembio.1c00865; @DOI:10.1021/acs.analchem.4c04134]
+
 
 ## 4. Insights into G protein-coupled receptors {.page_break_before}
 
