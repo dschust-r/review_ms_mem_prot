@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-05-23'
+date-meta: '2025-05-24'
 author-meta:
 - Dina Schuster
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
   <meta property="og:title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
   <meta property="twitter:title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
-  <meta name="dc.date" content="2025-05-23" />
-  <meta name="citation_publication_date" content="2025-05-23" />
-  <meta property="article:published_time" content="2025-05-23" />
-  <meta name="dc.modified" content="2025-05-23T23:08:04+00:00" />
-  <meta property="article:modified_time" content="2025-05-23T23:08:04+00:00" />
+  <meta name="dc.date" content="2025-05-24" />
+  <meta name="citation_publication_date" content="2025-05-24" />
+  <meta property="article:published_time" content="2025-05-24" />
+  <meta name="dc.modified" content="2025-05-24T01:40:51+00:00" />
+  <meta property="article:modified_time" content="2025-05-24T01:40:51+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_ms_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/26277d30399d18f7cf62f46b165671d0b54ffb97/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/26277d30399d18f7cf62f46b165671d0b54ffb97/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/26277d30399d18f7cf62f46b165671d0b54ffb97/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/dd51cd4895d7f9e3a796810e26893d77704fbfce/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/dd51cd4895d7f9e3a796810e26893d77704fbfce/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/dd51cd4895d7f9e3a796810e26893d77704fbfce/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/26277d30399d18f7cf62f46b165671d0b54ffb97/))
+([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/dd51cd4895d7f9e3a796810e26893d77704fbfce/))
 was automatically generated
-from [dschust-r/review_ms_mem_prot@26277d3](https://github.com/dschust-r/review_ms_mem_prot/tree/26277d30399d18f7cf62f46b165671d0b54ffb97)
-on May 23, 2025.
+from [dschust-r/review_ms_mem_prot@dd51cd4](https://github.com/dschust-r/review_ms_mem_prot/tree/dd51cd4895d7f9e3a796810e26893d77704fbfce)
+on May 24, 2025.
 </em></small>
 
 
@@ -105,7 +105,7 @@ Mass spectrometry has emerged as a powerful tool for studying membrane protein s
 
 ## 1. Novel mass spectrometric methods for the identification of drug targets and binding sites {.page_break_before}
 
-[@DOI:10.1021/acs.jproteome.3c00825; @DOI:10.1016/j.mcpro.2023.100588; @DOI:10.1038/s41592-020-01022-1; @DOI:10.1007/978-1-0716-3397-7_13; @DOI:10.1101/2025.04.28.650974; @DOI:10.1371/journal.pone.0282593; @DOI:10.1021/jacs.3c09078; @DOI:10.1038/s41596-021-00640-z; @DOI:10.1016/j.mcpro.2022.100206; DOI:10.1021/acschembio.3c00781]
+[@DOI:10.1021/acs.jproteome.3c00825; @DOI:10.1016/j.mcpro.2023.100588; @DOI:10.1038/s41592-020-01022-1; @DOI:10.1007/978-1-0716-3397-7_13; @DOI:10.1101/2025.04.28.650974; @DOI:10.1371/journal.pone.0282593; @DOI:10.1021/jacs.3c09078; @DOI:10.1038/s41596-021-00640-z; @DOI:10.1016/j.mcpro.2022.100206; @DOI:10.1021/acschembio.3c00781]
 
 ### Accessibility approaches
 
