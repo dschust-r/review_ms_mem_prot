@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-05-24'
+date-meta: '2025-05-28'
 author-meta:
 - Dina Schuster
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
   <meta property="og:title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
   <meta property="twitter:title" content="Advances in Mass Spectrometry for Membrane Protein Pharmacology" />
-  <meta name="dc.date" content="2025-05-24" />
-  <meta name="citation_publication_date" content="2025-05-24" />
-  <meta property="article:published_time" content="2025-05-24" />
-  <meta name="dc.modified" content="2025-05-24T01:40:51+00:00" />
-  <meta property="article:modified_time" content="2025-05-24T01:40:51+00:00" />
+  <meta name="dc.date" content="2025-05-28" />
+  <meta name="citation_publication_date" content="2025-05-28" />
+  <meta property="article:published_time" content="2025-05-28" />
+  <meta name="dc.modified" content="2025-05-28T02:20:37+00:00" />
+  <meta property="article:modified_time" content="2025-05-28T02:20:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://dschust-r.github.io/review_ms_mem_prot/" />
   <meta name="citation_pdf_url" content="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://dschust-r.github.io/review_ms_mem_prot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/dd51cd4895d7f9e3a796810e26893d77704fbfce/" />
-  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/dd51cd4895d7f9e3a796810e26893d77704fbfce/" />
-  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/dd51cd4895d7f9e3a796810e26893d77704fbfce/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://dschust-r.github.io/review_ms_mem_prot/v/d981bfa43dcc5f172e33966692b114c83485a1cb/" />
+  <meta name="manubot_html_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/d981bfa43dcc5f172e33966692b114c83485a1cb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dschust-r.github.io/review_ms_mem_prot/v/d981bfa43dcc5f172e33966692b114c83485a1cb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/dd51cd4895d7f9e3a796810e26893d77704fbfce/))
+([permalink](https://dschust-r.github.io/review_ms_mem_prot/v/d981bfa43dcc5f172e33966692b114c83485a1cb/))
 was automatically generated
-from [dschust-r/review_ms_mem_prot@dd51cd4](https://github.com/dschust-r/review_ms_mem_prot/tree/dd51cd4895d7f9e3a796810e26893d77704fbfce)
-on May 24, 2025.
+from [dschust-r/review_ms_mem_prot@d981bfa](https://github.com/dschust-r/review_ms_mem_prot/tree/d981bfa43dcc5f172e33966692b114c83485a1cb)
+on May 28, 2025.
 </em></small>
 
 
@@ -130,7 +130,7 @@ Mass spectrometry has emerged as a powerful tool for studying membrane protein s
 
 ## 3. Mass spectrometry reveals the cell surface organization  {.page_break_before}
 
-[@DOI:10.1038/s44320-025-00109-1; @DOI:10.1016/j.mcpro.2023.100588; @DOI:10.1038/s41592-020-01022-1; @DOI:10.1039/d1sc00814e; @DOI:10.1016/j.neuron.2022.09.025; @DOI:10.1038/s41586-022-04547-x; @DOI:10.1038/s41467-024-47033-w; @DOI:10.1021/acschembio.1c00865; @DOI:10.1021/acs.analchem.4c04134]
+[@DOI:10.1038/s44320-025-00109-1; @DOI:10.1016/j.mcpro.2023.100588; @DOI:10.1038/s41592-020-01022-1; @DOI:10.1039/d1sc00814e; @DOI:10.1016/j.neuron.2022.09.025; @DOI:10.1038/s41586-022-04547-x; @DOI:10.1038/s41467-024-47033-w; @DOI:10.1021/acschembio.1c00865; @DOI:10.1021/acs.analchem.4c04134; @DOI:10.1126/science.adl5763]
 
 
 ## 4. Insights into G protein-coupled receptors {.page_break_before}
